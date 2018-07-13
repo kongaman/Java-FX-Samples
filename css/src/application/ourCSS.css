@@ -1,0 +1,8 @@
+Button {
+	-fx-border-color: red;
+	-fx-border-width: 4;
+}
+
+#button {
+	-fx-background-color: red;
+}
